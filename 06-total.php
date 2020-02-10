@@ -1,0 +1,6 @@
+<?php
+
+for ($i = 1; $i <= 50; $i += 1){
+    $total += $i;
+    var_dump($total);
+}
